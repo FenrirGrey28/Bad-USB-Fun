@@ -1,0 +1,12 @@
+High-Key my faorite movie
+90s Arcade background with password bar. Dennis Nerdy shows up below the PW bar. 
+Audio: "Uh Uh Uh, You didn't say the magic word" plays on each attempt. 
+Fail safe: ESC quits the screen, "J" quits the screen, and Task Manager can end the prank. 
+## Everything's in C:\MagicWord\:
+MagicWord.ps1 — the prank
+magicword.wav — the audio
+bg.jpg — Nedry
+
+Flipper:
+magicword.txt — Flipper BadUSB launcher (in the Flipper's badusb folder)
+** See .txt file and engage after the above files are uploaded to target 
